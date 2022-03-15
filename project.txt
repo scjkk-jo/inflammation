@@ -6,3 +6,5 @@ Jane is a Data Scientist and Samit is a statistician: we will need to determine 
 Creating a change inside GitHub
 
 Creating a change in local folder to push
+
+Our first VSC change
